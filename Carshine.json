@@ -1,0 +1,37 @@
+[
+  {
+    "ProductName"="3M",
+    "ProductArticle"="12345",
+    "ProductDescription"="TEST",
+    "ProductPrice"="20",
+    "ProductImage"="gultkit"
+  },
+   {
+    "ProductName"="Meg",
+    "ProductArticle"="12345",
+    "ProductDescription"="TEST",
+    "ProductPrice"="20",
+    "ProductImage"="gultkit"
+  },
+   {
+    "ProductName"="Chemicar",
+    "ProductArticle"="12345",
+    "ProductDescription"="TEST",
+    "ProductPrice"="20",
+    "ProductImage"="gultkit"
+  },
+   {
+    "ProductName"="Motip",
+    "ProductArticle"="12345",
+    "ProductDescription"="TEST",
+    "ProductPrice"="20",
+    "ProductImage"="gultkit"
+  },
+   {
+    "ProductName"="PPG",
+    "ProductArticle"="12345",
+    "ProductDescription"="TEST",
+    "ProductPrice"="20",
+    "ProductImage"="gultkit"
+  }
+]
