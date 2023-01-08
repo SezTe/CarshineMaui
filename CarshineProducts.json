@@ -56,43 +56,43 @@
     "productImage":"https://www.meguiars.be/thumbnail/29/11/25/1619005008/G25024_1200x1200.png"
    },
   {
-    "id":0,
-    "productName":"",
-    "productDescription":"",
-    "productArticle":"",
-    "productPrice": ,
-    "productImage":""
+    "id":"3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "productName":"Meguiar's Hybrid Ceramic Synthetic Clay Kit",
+    "productDescription":"Een glad en waterafstotend oppervlak in één stap! De synthetische clay pad zorgt voor een glad oppervlak terwijl de Hybrid Ceramic Detailer een dunne keramische Sio2 waterafstotend bescherming aanbrengt. Kit bevat: Synthetische claypad , 768 ml Hybrid Ceramic Quik Detailer.",
+    "productArticle":"G200200EU",
+    "productPrice": 47.99,
+    "productImage":"https://www.meguiars.be/thumbnail/eb/6e/7d/1618994094/G200200_HCClayKit_1200x1200.png"
    },
   {
-    "id":0,
-    "productName":"",
-    "productDescription":"",
-    "productArticle":"",
-    "productPrice": ,
-    "productImage":""
+    "id":"3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "productName":"Meguiar's Ultimate Compound",
+    "productDescription":"Hardnekkige oxidatie, vlekken, ingebrande vogelpoep en andere in de lak zittende defecten kunnen worden verwijderd terwijl het oppervlak gepolijst wordt en een spiegelachtige finish krijgt. Ultimate Compound bevat micro-abrasives waardoor deze veilig is op alle lakken. Kleur en helderheid van verwaarloosde en beschadigde lakoppervlakken worden zo op een veilige manier hersteld. Na gebruik laat het een heldere lak achter die vrij is van krassen, nevel en swirls. Zowel handmatig als met een Dual Action Polisher aan te brengen.",
+    "productArticle":"G17216EU",
+    "productPrice": 22.99,
+    "productImage":"https://www.meguiars.be/thumbnail/44/a4/87/1617961760/G17216_S1_Hero_1200x1200.png"
    },
   {
-    "id":0,
-    "productName":"",
-    "productDescription":"",
-    "productArticle":"",
-    "productPrice": ,
-    "productImage":""
+    "id":"3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "productName":"Meguiar's Hybrid Ceramic Pre-Wax Prep",
+    "productDescription":"Meguiar's Hybrid Ceramic Pre-Wax Prep verwijdert kleine defecten snel dankzij de aanwezige fijne polijst ingrediënten en polisht tegelijkertijd de lak dankzij de voedende oliën, waardoor de lak een diepe glans verkrijgt en de kleuren eruit springen! Bovendien laat het een fijne laag Hybrid Ceramic-bescherming achter die fungeert als een perfecte basislaag voor Meguiar's Hybrid Ceramic-lakbeschermingsproducten om op te bouwen! Het aanbrengen en verwijderen voelt meer aan als een wax dan een traditionele compound; het gaat soepel en veegt gemakkelijk af!",
+    "productArticle":"G220416EU",
+    "productPrice": 24.99,
+    "productImage":"https://www.meguiars.be/thumbnail/8c/e5/c2/1664371550/G220416_HCPreWax_Front_1200x1200.png"
    },
   {
-    "id":0,
-    "productName":"",
-    "productDescription":"",
-    "productArticle":"",
-    "productPrice": ,
-    "productImage":""
+    "id":"3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "productName":"Meguiar's Hybrid Ceramic Liquid Wax",
+    "productDescription":"Keramische bescherming aanbrengen, makkelijk gemaakt! Eenvoudig aan te brengen zoals eender welke andere wax. Zorgt voor de meest langdurige water -en vuilafstotende bescherming.",
+    "productArticle":"G200416EU",
+    "productPrice": 41.99,
+    "productImage":"https://www.meguiars.be/thumbnail/5e/2c/a2/1618994570/G200416_Hero_1200x1200.png"
    },
   {
-    "id":0,
-    "productName":"",
-    "productDescription":"",
-    "productArticle":"",
-    "productPrice": ,
-    "productImage":""
+    "id":"3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "productName":"Meguiar's Hot Rims Wheel & Tire Cleaner",
+    "productDescription":"Hot Rims is, in tegenstelling tot de meeste velgproducten op de markt, veilig te gebruiken op alle soorten velgen, zelfs spaakvelgen, aluminium, geverfde of chromen velgen. Gewoon op een koude velg spuiten en het neutralisatiemiddel laten inwerken. Borstelen waar nodig. Afspoelen met water om de glans naar voren te brengen. Niet gebruiken op gepolijste aluminium velgen.",
+    "productArticle":"G9524EU",
+    "productPrice": 19.99,
+    "productImage":"https://www.meguiars.be/thumbnail/5b/95/15/1619092214/G9524_HotRimsWheelandTire_Hero_1200x1200.png"
    },
 ]
