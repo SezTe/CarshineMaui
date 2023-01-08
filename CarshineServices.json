@@ -1,0 +1,30 @@
+[
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "serviceName": "Polijsten",
+    "serviceDescription": "Polijsten is het proces waardoor een oppervlak van een materiaal glad en glanzend gemaakt wordt, waardoor de oppervlakteruwheid verkleind wordt en het materiaal een sterk spiegelend effect verkrijgt.",
+    "servicePrice": 450,
+    "serviceImage": "https://img.freepik.com/premium-photo/polishing-car-after-painting-detailing-car-from-outside-device-polishing-hands_188969-25.jpg"
+  },
+    {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "serviceName": "Coating",
+    "serviceDescription": "Een coating is een beschermend product voor je lak. Het is een zeer speciaal middel dat een flinterdunne laag achterlaat die (na uitharding) ontzettend hard wordt. Het heeft een hoge weerstand tegen chemicaliën, weert vuil en stof goed af en heeft een levensduur van 1 tot 3 jaar.",
+    "servicePrice": 650,
+    "serviceImage": "https://www.nascardetailing.be/media/images/gallery/14/big/54.jpg"
+  },
+      {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "serviceName": "Professioneel Auto Wassen",
+    "serviceDescription": "Met de term “professioneel auto wassen” doelen we vooral op het wassen van je auto op zo’n manier dat het vuil effectief verwijderd wordt zonder de werking van het beschermende product te beinvloeden en door zo min mogelijk effect te hebben op het oppervlak dat gereinigd wordt. ",
+    "servicePrice": 120,
+    "serviceImage": "https://cdn.shopify.com/s/files/1/0420/7696/2969/articles/Screenshot_2022-01-28_at_17.04.15_800x.png?v=1643389913"
+  },
+      {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "serviceName": "Interieurreiniging",
+    "serviceDescription": "Het volledige interieur en de kofferruimte ondergaan een diepte-/stoomreiniging. Lederen bekleding wordt gereinigd met een pH-neutrale ledercleaner en vervolgens behandeld met een conditioner. Tapijten, matten en stoffen zetels ondergaan een dieptereiniging en shampoo-extractie (meerprijs). Dashboard, middenconsole en deurpanelen worden gereinigd en vervolgens beschermd met een dressing om hun originele uitstraling te bekomen. De ramen worden streeploos schoon gemaakt.",
+    "servicePrice": 180,
+    "serviceImage": "https://practicalperfectionut.com/wp-content/uploads/2021/05/cleaning-car-salon-with-steam-cleaner-scaled.jpg"
+  },
+]
